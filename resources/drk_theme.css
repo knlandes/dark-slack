@@ -4477,3 +4477,7 @@ ts-message.active:not(.standalone):not(.multi_delete_mode):not(.highlight):not(.
 ts-message.highlight { background: rgba(74, 74, 74, 0.24); }
 
 ts-message.highlight:hover { background: rgba(74, 74, 74, 0.24); }
+
+.p-channel_page_apps__list__row:hover .p-channel_page_apps__list__row__wrapper { background-color: #4c4c4c; border-color: #252525; }
+
+.p-channel_page_apps__list__row:hover { color: #d8d8d8; }
