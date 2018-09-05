@@ -4483,3 +4483,7 @@ ts-message.highlight:hover { background: rgba(74, 74, 74, 0.24); }
 .p-channel_page_apps__list__row:hover { color: #d8d8d8; }
 
 #client_body:not(.onboarding):not(.feature_global_nav_layout):before { background: #1e1e1e; }
+
+.c-search_modal:not(.c-search_modal--primarysearch) .c-search__input_box { background: #1b1b1b; }
+
+.c-search_modal .c-search__input_box__clear { border-right: 1px solid #000000; }
