@@ -4301,7 +4301,7 @@ ts-message.active:not(.standalone):not(.multi_delete_mode):not(.highlight):not(.
 
 .c-search__input_box { background-color: #1b1b1b; }
 
-.c-search__input_and_close { background-color: #000; border-bottom: 1px solid #000000; }
+.c-search__input_and_close { background-color: #1b1b1b; border-bottom: 1px solid #000000; }
 
 .c-search__input_and_close__close { background-color: #1b1b1b !important; }
 
