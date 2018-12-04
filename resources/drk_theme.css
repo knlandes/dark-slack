@@ -208,7 +208,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .input-append .add-on, .input-prepend .add-on { background-color: #828282; border: 1px solid #545454; text-shadow: 0 1px 0 rgba(0, 0, 0, 0.15); }
 
-.btn { background-color: #1e1e1e; border: 1px solid #828282; color: #c1c1c1 !important; text-shadow: 0 1px 1px rgba(0, 0, 0, 0.15); }
+.btn { background-color: #1e1e1e; border: 1px solid #000; color: #c1c1c1 !important; text-shadow: 0 1px 1px rgba(0, 0, 0, 0.15); }
 
 .btn.hover, .btn:focus, .btn:hover, .btn.active, .btn:active { background-color: #303030; color: #717171; }
 
@@ -1251,7 +1251,7 @@ ts-mention { background: rgba(130, 130, 130, 0.1) !important; color: #717171 !im
 
 .file_container .preview_actions .btn::after { border-color: #000; }
 
-.file_container .preview_actions .btn.preview_show_less_header { background-color: rgba(130, 130, 130, 0.9); color: #717171 !important; }
+.file_container .preview_actions .btn.preview_show_less_header { background-color: #2b2b2b; color: #717171 !important; }
 
 .file_container .preview_actions .btn.preview_show_less_header::after { border: 2px solid #000; }
 
@@ -3432,7 +3432,7 @@ nav#site_nav #footer_nav a, #header_team_name:hover .fa-caret-down, .widescreen:
 
 .admin_pref .admin_pref_locked_label { color: #949494; }
 
-.tooltip-inner { background-color: #828282; color: #717171; }
+.tooltip-inner { background-color: #828282; color: #2b2b2b; }
 
 .tooltip.top .tooltip-arrow, .tooltip.top-left .tooltip-arrow { border-top-color: #828282; }
 
@@ -3797,19 +3797,19 @@ ts-rocket .unfurl .unfurl-remove::before { color: #949494; }
 
 ts-rocket .unfurl .unfurl-remove:hover::before { color: #717171; }
 
-ts-rocket .unfurl.selected .unfurl-container { background-color: rgba(130, 130, 130, 0.5); }
+ts-rocket .unfurl.selected .unfurl-container { background-color: #2c6583 !important; }
 
-ts-rocket .unfurl.selected .unfurl-container .attachment_bar { background-color: rgba(130, 130, 130, 0.5) !important; }
+ts-rocket .unfurl.selected .unfurl-container .attachment_bar { background-color: #2c6583 !important; }
 
 ts-rocket caret::before { background-color: #2b2b2b; border: 1px solid #2b2b2b; }
 
-ts-rocket carriage { background-color: rgba(130, 130, 130, 0.5); }
+ts-rocket carriage { background-color: #2c6583 !important; }
 
-ts-rocket selection { background-color: rgba(130, 130, 130, 0.5); }
+ts-rocket selection { background-color: #2c6583 !important; color: #cecece; }
 
-ts-rocket selection::after, ts-rocket selection::before { background-color: rgba(130, 130, 130, 0.5); }
+ts-rocket selection::after, ts-rocket selection::before { background-color: #2c6583 !important; }
 
-ts-rocket ime { background-color: rgba(130, 130, 130, 0.5); }
+ts-rocket ime { background-color: background-color: #2c6583 !important; }
 
 ts-rocket .hr.selected hr { box-shadow: 0 0 0 5px rgba(130, 130, 130, 0.5); }
 
@@ -3933,7 +3933,7 @@ comments { box-shadow: inset 1px 0 0 rgba(0, 0, 0, 0.25); }
 
 .textstyle_menu .arrow::after { background-color: #2b2b2b; }
 
-.textstyle_menu .content { background-color: #2b2b2b; box-shadow: 0 0 0 1px #2b2b2b, 0 0 1px rgba(0, 0, 0, 0.15), 0 1px 3px rgba(0, 0, 0, 0.25); }
+.textstyle_menu .content { background-color: #545454; box-shadow: 0 0 0 1px #2b2b2b, 0 0 1px rgba(0, 0, 0, 0.15), 0 1px 3px rgba(0, 0, 0, 0.25); }
 
 .textstyle_menu.link .arrow-shadow::after { background-color: #2b2b2b; }
 
@@ -4048,6 +4048,8 @@ ts-jumper .p-jumper__results { border-top: 1px solid #000; }
 .c-deprecated_rounded_button, .c-deprecated_rounded_button:link, .c-deprecated_rounded_button:visited, .c-deprecated_rounded_button:hover { color: #e6e6e6; background-color: #6362aa; }
 
 ::selection { background: #2c658e; }
+
+body ::selection { background: #2c658e; }
 
 .c-fullscreen_modal__content, .p-app-panel, .p-navigation_bar, .p-workspace_directory_card, .p-workspace_directory_banner, .p-workspace_directory_empty_state, .p-app_actions, .p-highlights_message, .c-modal__background, .p-search_filter__dates, .channel_header.channel_header--search-modal .search_form,  { background-color: #1e1e1e; }
 
@@ -4501,3 +4503,13 @@ ts-message.highlight:hover { background: rgba(74, 74, 74, 0.24); }
 #notification_banner h1 { color: #d6d6d6; }
 
 #notification_banner h2 { color: #d6d6d6; }
+
+.c-message__editor__input--legacy { background: #545454; color: #e8e8e8; }
+
+.c-message__editor__input--legacy.focus { border-color: #6363aa; }
+
+.p-file_details__share_divider hr { border-color: #585858; }
+
+.p-file_details__share_channel { color: #6362aa; }
+
+.c-post__header { border-bottom: 1px solid #585858; }
