@@ -4513,3 +4513,5 @@ ts-message.highlight:hover { background: rgba(74, 74, 74, 0.24); }
 .p-file_details__share_channel { color: #6362aa; }
 
 .c-post__header { border-bottom: 1px solid #585858; }
+
+#team_tab #member_preview_scroller .member_details .member_name { color: #cecece; }
