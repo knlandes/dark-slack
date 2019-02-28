@@ -1,4 +1,4 @@
-body { background: #1e1e1e; color: #717171; }
+body { background: #1e1e1e; color: #bdbdbd; }
 
 a { color: #949494; }
 
@@ -8,7 +8,7 @@ a:hover, a:active, a:focus { color: #c7c7c7; }
 
 hr { border-bottom: 1px solid #424242; border-top: 1px solid #1e1e1e; }
 
-h1, h2, h3, h4 { color: #717171; }
+h1, h2, h3, h4 { color: #bbbbbb; }
 
 h1 a { color: #717171; }
 
@@ -164,7 +164,7 @@ select:active, select:focus, textarea:active, textarea:focus { border-color: #2b
 
 input:disabled, input:disabled:active, select:disabled, textarea:disabled { border-color: #424242 !important; }
 
-.no_touch input:hover, .no_touch select:hover, .no_touch textarea:hover { border-color: #2b2b2b; }
+.no_touch input:hover, .no_touch select:hover, .no_touch textarea:hover { border-color: #000000; }
 
 .no_touch label.select:hover select { border-color: #2b2b2b; }
 
@@ -2951,7 +2951,7 @@ html.no_touch .pager li > a:hover, html.no_touch .pager li > a:focus { color: #c
 
 #page_contents .card { background: rgba(54, 54, 54, 0.8) !important; }
 
-#page_contents .card p { color: #717171; }
+#page_contents .card p { color: #a9a9a9; }
 
 .tab_set a.secondary { color: #949494; }
 
@@ -4444,8 +4444,8 @@ ts-message.active:not(.standalone):not(.multi_delete_mode):not(.highlight):not(.
 .p-message_pane_drag_overlay { background: hsla(0, 0%, 20%, 0.95); }
 
 @keyframes messagePaneDragOverlayOverlayTransition {
-          0%    { background: hsla(0, 0%, 100%, 0); opacity: 0; }
-          100%  { background: hsla(0, 0%, 20%, 0.95); opacity: 1; }
+  0%{ background: hsla(0, 0%, 100%, 0); opacity: 0; }
+  100%  { background: hsla(0, 0%, 20%, 0.95); opacity: 1; }
 }
 
 .menu ul li a:not(.inline_menu_link) { color: #8e8e8e; }
@@ -4517,3 +4517,23 @@ ts-message.highlight:hover { background: rgba(74, 74, 74, 0.24); }
 #team_tab #member_preview_scroller .member_details .member_name { color: #cecece; }
 
 .c-menu_item__header { color: #9e9e9e; }
+
+.p-threads_footer__input .p-message_input_field { background: #1e1e1e; }
+
+.p-threads_footer__input--legacy .p-message_input_plus { background: #1e1e1e; }
+
+.p-threads_footer__input--legacy .p-message_input_plus.p-message_input_plus--active, .p-threads_footer__input--legacy .p-message_input_plus:hover { background: #565656; }
+
+.p-threads_footer__input--legacy .p-message_input_field { border-color: #565656; }
+
+.c-timestamp__label { color: #9e9e9e; }
+
+.c-message_kit__background--labels { background: rgba(68, 190, 242, 0.1); }
+
+.c-pillow_file__content--collapsed:after { background: linear-gradient(0deg,#1f1f1f,hsla(0,0%,100%,0) 40px); }
+
+.p-threads_footer__input--legacy .p-message_input_file_button { background: #1e1e1e; border: 1px solid #5d5d5d; }
+
+.c-pillow_file__email__sender__address { color: #808080; }
+
+.c-pillow_file__email__meta__field { color: #808080; }
