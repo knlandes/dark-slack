@@ -17,5 +17,5 @@ document.addEventListener('DOMContentLoaded', function() {
  });
 });
 ```
-
-4. Open Slack and enjoy the darkness!
+4. Save the file.
+5. Open Slack and enjoy the darkness!
