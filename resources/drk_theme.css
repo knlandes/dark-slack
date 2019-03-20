@@ -4537,3 +4537,17 @@ ts-message.highlight:hover { background: rgba(74, 74, 74, 0.24); }
 .c-pillow_file__email__sender__address { color: #808080; }
 
 .c-pillow_file__email__meta__field { color: #808080; }
+
+.c-reaction--reacted:not(.c-button--focus-visible), .c-reaction--reacted:not(.focus-ring) { box-shadow: none; }
+
+.c-reaction:hover { background: #444444; }
+
+.p-threads_view__default_background { background: none; }
+
+.p_threads_view_load_newer_button, .p_threads_view_load_older_button { background: #2d2d2d; }
+
+.p_threads_view_load_newer_button:hover, .p_threads_view_load_older_button:hover { background: none; }
+
+.p-threads_view_reply--new_reply { background: #383838; }
+
+.p-threads_view__divider_label { background: #777777; color: #ffffff; }
