@@ -4551,3 +4551,11 @@ ts-message.highlight:hover { background: rgba(74, 74, 74, 0.24); }
 .p-threads_view_reply--new_reply { background: #383838; }
 
 .p-threads_view__divider_label { background: #777777; color: #ffffff; }
+
+.c-message_kit__background--editing { background: #1e1e1e; }
+
+.c-pillow_file__swap .c-pillow_file__slide { background: #1e1e1e; }
+
+.c-message_kit__file__meta { color: #b3b3b3; }
+
+.p-download_item__container .p-download_item__name_row { color: #909090; }
