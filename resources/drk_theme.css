@@ -4559,3 +4559,13 @@ ts-message.highlight:hover { background: rgba(74, 74, 74, 0.24); }
 .c-message_kit__file__meta { color: #b3b3b3; }
 
 .p-download_item__container .p-download_item__name_row { color: #909090; }
+
+.c-channel_search_result__channel { background: transparent; border: 1px solid #3a3a3a; }
+
+.c-channel_search_result__channel:hover { border-color: #888888; }
+
+.c-channel_search_result__metadata { color: #bdbdbd; }
+
+.c-button--outline-primary:hover { background: #252525; }
+
+.c-button--outline-primary { color: #6362aa; border: 1px solid #6362aa; }
