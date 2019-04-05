@@ -4569,3 +4569,7 @@ ts-message.highlight:hover { background: rgba(74, 74, 74, 0.24); }
 .c-button--outline-primary:hover { background: #252525; }
 
 .c-button--outline-primary { color: #6362aa; border: 1px solid #6362aa; }
+
+.c-icon_button--light, .c-icon_button--light.c-button-unstyled, .c-icon_button--light:link { color: #c3c3c3; }
+
+.c-icon_button--light.c-button-unstyled:hover, .c-icon_button--light:hover, .c-icon_button--light:link:hover { color: #8c8c8c; }
