@@ -4573,3 +4573,5 @@ ts-message.highlight:hover { background: rgba(74, 74, 74, 0.24); }
 .c-icon_button--light, .c-icon_button--light.c-button-unstyled, .c-icon_button--light:link { color: #c3c3c3; }
 
 .c-icon_button--light.c-button-unstyled:hover, .c-icon_button--light:hover, .c-icon_button--light:link:hover { color: #8c8c8c; }
+
+body:not(.loading) #team_menu:hover, body:not(.loading) #team_menu.active { background: #333333 !important; }
