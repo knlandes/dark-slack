@@ -4581,3 +4581,9 @@ body:not(.loading) #team_menu:hover, body:not(.loading) #team_menu.active { back
 .p-prefs_modal__radiogroup label.p-prefs_modal__radiogroup--selected { background: #1e1e1e; border-color: #6362aa; }
 
 .c-link--button:active, .c-link--button:focus, .c-link--button:hover { color: #c0bfe2; }
+
+.c-search_autocomplete__suggestion_item .token { color: #bfbfbf; }
+
+.c-date_picker__dropdown { background-color: #292929; }
+
+.c-calendar_month__day_of_week_heading { color: #d2d2d2; }
