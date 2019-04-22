@@ -4575,3 +4575,9 @@ ts-message.highlight:hover { background: rgba(74, 74, 74, 0.24); }
 .c-icon_button--light.c-button-unstyled:hover, .c-icon_button--light:hover, .c-icon_button--light:link:hover { color: #8c8c8c; }
 
 body:not(.loading) #team_menu:hover, body:not(.loading) #team_menu.active { background: #333333 !important; }
+
+.p-prefs_modal__radiogroup .p-prefs_modal__radio_decorator { background: #1e1e1e; }
+
+.p-prefs_modal__radiogroup label.p-prefs_modal__radiogroup--selected { background: #1e1e1e; border-color: #6362aa; }
+
+.c-link--button:active, .c-link--button:focus, .c-link--button:hover { color: #c0bfe2; }
