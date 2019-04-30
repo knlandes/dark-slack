@@ -4587,3 +4587,7 @@ body:not(.loading) #team_menu:hover, body:not(.loading) #team_menu.active { back
 .c-date_picker__dropdown { background-color: #292929; }
 
 .c-calendar_month__day_of_week_heading { color: #d2d2d2; }
+
+.c-alert--inline, .c-alert--nested_box { color: #ababab; }
+
+.c-unified_member__secondary-name--medium { color: #949494; }
