@@ -4309,8 +4309,6 @@ ts-message.active:not(.standalone):not(.multi_delete_mode):not(.highlight):not(.
 
 .c-search__input_box__clear { border-right: none; background-color: #1b1b1b !important; }
 
-.c-button-unstyled { background: none; }
-
 .c-search_autocomplete { background-color: #1b1b1b; }
 
 .c-search_autocomplete footer { background-color: #1b1b1b; }
