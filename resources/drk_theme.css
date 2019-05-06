@@ -4589,3 +4589,5 @@ body:not(.loading) #team_menu:hover, body:not(.loading) #team_menu.active { back
 .c-alert--inline, .c-alert--nested_box { color: #ababab; }
 
 .c-unified_member__secondary-name--medium { color: #949494; }
+
+.c-search_autocomplete__suggestion_item { color: #989898; }
