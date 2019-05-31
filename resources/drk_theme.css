@@ -4591,3 +4591,7 @@ body:not(.loading) #team_menu:hover, body:not(.loading) #team_menu.active { back
 .c-unified_member__secondary-name--medium { color: #949494; }
 
 .c-search_autocomplete__suggestion_item { color: #989898; }
+
+.c-virtual_list--scrollbar { background: #1e1e1e; }
+
+.p-threads_view_header__participant_list { color: #e6e6e6; }
