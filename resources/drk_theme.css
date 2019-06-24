@@ -4605,3 +4605,15 @@ body:not(.loading) #team_menu:hover, body:not(.loading) #team_menu.active { back
 .c-select_options_list__option--selected { color: #ffffff; }
 
 .c-select_button:active { background-color: unset; }
+
+.c-pillow_file_container--full_width:focus, .c-pillow_file_container--full_width:focus-within, .c-pillow_file_container--full_width:hover { background: #2b2b2b; }
+
+.c-action_buttons__button { background-color: #2b2b2b; }
+
+.c-action_buttons__icon { color: #dadada; }
+
+.c-pillow_file__description { color: #929292; }
+
+.c-action_buttons__button:hover .c-action_buttons__icon { color: #848484; }
+
+.p-file_list__file.c-pillow_file_container--full_width { border-bottom: 1px solid #3c3c3c; }
