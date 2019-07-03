@@ -1513,7 +1513,7 @@ div.codemirror span.codemirror-nonmatchingbracket { color: #902200; }
 
 .channel_overlay_title_shared { color: #717171; }
 
-pre { background: #000; border: 1px solid #2b2b2b; color: #717171; }
+pre { background: #3a3a3a; border: 1px solid #2b2b2b; color: #ffffff; }
 
 pre span.mention { padding: 2px 0 !important; }
 
