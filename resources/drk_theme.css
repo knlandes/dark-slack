@@ -4621,3 +4621,5 @@ body:not(.loading) #team_menu:hover, body:not(.loading) #team_menu.active { back
 .c-message_attachment__author_name, .c-message_attachment__author_name.c-link--button, .c-message_attachment__author_name.c-link--button:active, .c-message_attachment__author_name.c-link--button:focus, .c-message_attachment__author_name.c-link--button:hover { color: #b3b3b3; }
 
 .c-app_badge, .c-app_label { color: rgba(255, 255, 255, 0.7); background-color: rgba(255, 255, 255, 0.13); }
+
+.p-channel_sidebar__history_button { color: #cccccc; }
