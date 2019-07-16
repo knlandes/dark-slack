@@ -4623,3 +4623,5 @@ body:not(.loading) #team_menu:hover, body:not(.loading) #team_menu.active { back
 .c-app_badge, .c-app_label { color: rgba(255, 255, 255, 0.7); background-color: rgba(255, 255, 255, 0.13); }
 
 .p-channel_sidebar__history_button { color: #cccccc; }
+
+.c-pillow_file__snippet__content .CodeMirror-code>div:before { color: #ababab; }
