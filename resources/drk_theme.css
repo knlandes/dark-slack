@@ -4634,11 +4634,11 @@ body:not(.loading) #team_menu:hover, body:not(.loading) #team_menu.active { back
 
 .p-classic_nav__model__title__info { color: #bdbdbd; }
 
-.p-classic_nav__model__button { color: #bdbdbd; border: 1px solid #6d6d6d; }
+.p-classic_nav__model__button { color: #bdbdbd; }
 
 .p-classic_nav__right__button { color: #bdbdbd; }
 
-.p-classic_nav__right__search { color: #bdbdbd; }
+.p-classic_nav__right__search { color: #bdbdbd; border: 1px solid #6d6d6d; }
 
 .p-classic_nav__right__search:hover { border-color: #868686; }
 
