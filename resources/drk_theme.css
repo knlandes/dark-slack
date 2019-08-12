@@ -4691,3 +4691,5 @@ body:not(.loading) #team_menu:hover, body:not(.loading) #team_menu.active { back
 .c-alert--boxed, .c-alert--custom { color: #cecece; }
 
 .c-fullscreen_modal__back:hover, .c-fullscreen_modal__close:hover { background-color: #6b6b6b; }
+
+.p-classic_nav__model__title__name--dim { color: #929292; }
