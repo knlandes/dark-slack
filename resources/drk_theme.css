@@ -4755,3 +4755,5 @@ body:not(.loading) #team_menu:hover, body:not(.loading) #team_menu.active { back
 .p-threads_footer__input .p-message_input_field.focus~.p-message_input_file_button:not(:hover) { color: #888888; }
 
 .c-texty_input.focus .c-texty_input__button { color: #888888; }
+
+.p-workspace__input .p-message_input_field.focus~.p-message_input_file_button:not(:hover) { color: #888888; }
