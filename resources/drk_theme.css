@@ -4761,3 +4761,5 @@ body:not(.loading) #team_menu:hover, body:not(.loading) #team_menu.active { back
 .p-dm_browser_modal__list_row--active { background-color: #292929; }
 
 .p-dm_browser_modal__list_row_meta { color: #8a8a8a; }
+
+.c-color_picker__input[type=text] { color: #c5c5c5; }
