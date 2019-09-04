@@ -4630,7 +4630,7 @@ body:not(.loading) #team_menu:hover, body:not(.loading) #team_menu.active { back
 
 .p-file_details__meta_container .c-file__action_button:hover { color: #ffffff; }
 
-.p-classic_nav__channel_header, .p-classic_nav__right_header { background: #1e1e1e; }
+.p-classic_nav__channel_header, .p-classic_nav__right_header { background: #1e1e1e; --saf-0: #444444 }
 
 .p-classic_nav__model__title__info { color: #bdbdbd; }
 
@@ -4767,3 +4767,5 @@ body:not(.loading) #team_menu:hover, body:not(.loading) #team_menu.active { back
 .p-threads_flexpane__separator_count { color: #bdbdbd; }
 
 .p-threads_flexpane__header_channel_name, .p-threads_flexpane__header_permalink:focus, .p-threads_flexpane__header_permalink:hover { color: #bdbdbd; }
+
+.p-message_pane .c-message_list.c-virtual_list--scrollbar>.c-scrollbar__hider:before, .p-message_pane .c-message_list:not(.c-virtual_list--scrollbar):before { box-shadow: 0 1px 0 #444444; }
