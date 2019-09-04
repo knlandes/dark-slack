@@ -1,6 +1,6 @@
 # Dark Slack
 
-* NOTE: This theme does not work in Slack.app v 4.0.0 and above. Watch this space for an updated theme that is v4 compatible!
+** NOTE: This theme does not work in Slack.app v 4.0.0 and above. Watch this space for an updated theme that is v4 compatible! **
 
 * This is a dark theme for Slack that can be customized to the user's content.
 * Inspired by this thread: https://gist.github.com/DrewML/0acd2e389492e7d9d6be63386d75dd99#gistcomment-1991368
