@@ -404,7 +404,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .ql-container.texty_single_line_input { background: #1b1b1b; border: 1px solid #000000; color: #717171; }
 
-.ql-container.texty_single_line_input.focus, .ql-container.texty_single_line_input:hover { border-color: #000000; border: none; box-shadow: 0 0 7px rgba(0, 0, 0, 0.15); }
+.ql-container.texty_single_line_input.focus, .ql-container.texty_single_line_input:hover { border-color: #000000; box-shadow: 0 0 7px rgba(0, 0, 0, 0.15); }
 
 .ts_toggle .ts_toggle_button { background: #000; color: #717171; }
 
@@ -4037,7 +4037,7 @@ ts-jumper ol li.highlighted:not(.no_hover) .c-app_label, ts-jumper ol li.highlig
 
 .app_preview_link_slug, .internal_member_link, .internal_user_group_link, ts-mention { background: #3a3a3a; }
 
-.p-archives_banner { background: #2b2b2b; }
+.p-archives_banner { background: #2b2b2b; color: #c5c5c5; box-shadow: -20px 8px #1e1e1e, 20px 8px #1e1e1e; }
 
 #im_browser .qs_tip.alert { border-left: 1px solid #000; }
 
@@ -4600,7 +4600,7 @@ body:not(.loading) #team_menu:hover, body:not(.loading) #team_menu.active { back
 
 .c-select_options_list__wrapper { background-color: #2b2b2b; }
 
-.c-select_options_list__option { color: #989898; }
+.c-select_options_list__option { color: #d2d2d2; }
 
 .c-select_options_list__option--selected { color: #ffffff; }
 
@@ -4771,3 +4771,27 @@ body:not(.loading) #team_menu:hover, body:not(.loading) #team_menu.active { back
 .p-message_pane .c-message_list.c-virtual_list--scrollbar>.c-scrollbar__hider:before, .p-message_pane .c-message_list:not(.c-virtual_list--scrollbar):before { box-shadow: 0 1px 0 #444444; }
 
 .c-channel_name { color: #bdbdbd; }
+
+.c-search_autocomplete__member .c-unified_member__name { color: #a8a8a8; }
+
+.p-channel_name_input__label_title strong { color: #bbbbbb; }
+
+.p-channel_create_modal__label_title strong { color: #bbbbbb; }
+
+.p-channel_create_modal__label_title { color: #8c8c8c; }
+
+.p-channel_create_modal__input_subtext { color: #bbbbbb; }
+
+.p-channel_create_modal__sub_section_copy_body { color: #8c8c8c; }
+
+.p-invite_users_input__input_subtext { color: #8c8c8c; }
+
+.p-channel_create_modal__share { color: #bbbbbb; background-color: #1e1e1e; }
+
+.p-invite_users_input__label_title { color: #8c8c8c; }
+
+.p-invite_users_input__label_title strong { color: #bbbbbb; }
+
+.c-toggle__input { background-color: #a9a9a9; }
+
+.p-channel_name_input__input_subtext, .p-channel_name_input__prefix_description { color: #9a9a9a; }
