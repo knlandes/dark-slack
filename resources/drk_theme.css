@@ -4528,7 +4528,7 @@ ts-message.highlight:hover { background: rgba(74, 74, 74, 0.24); }
 
 .c-message_kit__background--labels { background: rgba(68, 190, 242, 0.1); }
 
-.c-pillow_file__content--collapsed:after { background: linear-gradient(0deg,#1f1f1f,hsla(0,0%,100%,0) 40px); }
+.c-pillow_file__content--collapsed:after { background: linear-gradient(0deg,#353535,hsla(0,0%,100%,0) 40px); }
 
 .p-threads_footer__input--legacy .p-message_input_file_button { background: #1e1e1e; border: 1px solid #5d5d5d; }
 
