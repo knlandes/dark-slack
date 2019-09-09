@@ -4795,3 +4795,13 @@ body:not(.loading) #team_menu:hover, body:not(.loading) #team_menu.active { back
 .c-toggle__input { background-color: #a9a9a9; }
 
 .p-channel_name_input__input_subtext, .p-channel_name_input__prefix_description { color: #9a9a9a; }
+
+.p-channel_details__dm_section__tz_label { color: #a9a9a9; }
+
+.p-channel_details__heading { color: #a9a9a9; }
+
+.p-channel_details__shared_files__empty { color: #a9a9a9; }
+
+.p-classic_nav__model__button--active { background: #3c3c3c; }
+
+.p-channel_details_section { border-bottom: 1px solid #313131; }
