@@ -4805,3 +4805,7 @@ body:not(.loading) #team_menu:hover, body:not(.loading) #team_menu.active { back
 .p-classic_nav__model__button--active { background: #3c3c3c; }
 
 .p-channel_details_section { border-bottom: 1px solid #313131; }
+
+.p-channel_details__dm_section__tz_section { border-bottom: 1px solid #313131; }
+
+.p-channel_details__dm_section { border-bottom: 1px solid #313131; }
