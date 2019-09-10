@@ -4809,3 +4809,7 @@ body:not(.loading) #team_menu:hover, body:not(.loading) #team_menu.active { back
 .p-channel_details__dm_section__tz_section { border-bottom: 1px solid #313131; }
 
 .p-channel_details__dm_section { border-bottom: 1px solid #313131; }
+
+.p-classic_nav__team_menu__blurb__sub { color: #c8c8c8; }
+
+.c-menu_item__link_icon, .c-menu_item__shortcut { color: #ababab; }
