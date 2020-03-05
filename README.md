@@ -1,6 +1,6 @@
 # Dark Slack
 
-** NOTE: This theme does not work in Slack.app v 4.0.0 and above. Watch this space for an updated theme that is v4 compatible! **
+** NOTE: This theme does not work in Slack.app v 4.0.0 and above. **
 
 ** UPDATE: On 9/12/2019 Slack released offical dark mode support! As such, I am stopping development of this project. Thank you to anyone who found this useful! **
 
